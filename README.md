@@ -15,3 +15,7 @@ You will loose a life for every wrong guess. So, be careful because when you loo
 - Changed wrong background color
 - Changed chosen background color
 - Transformed the keyboard keys to uppercase
+
+## Live Preview
+
+http://phrase-hunter.surge.sh
