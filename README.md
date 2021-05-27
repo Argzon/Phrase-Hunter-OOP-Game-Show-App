@@ -18,4 +18,4 @@ You will loose a life for every wrong guess. So, be careful because when you loo
 
 ## Live Preview
 
-http://phrase-hunter.surge.sh
+[Phrase Hunter Website](https://argzon.github.io/Phrase-Hunter-OOP-Game-Show-App/)
